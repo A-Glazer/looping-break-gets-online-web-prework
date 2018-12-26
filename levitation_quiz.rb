@@ -9,5 +9,6 @@ def levitation_quiz
 	else loop
 end
 end
+end
 
 levitation_quiz
